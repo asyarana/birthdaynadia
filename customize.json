@@ -1,0 +1,23 @@
+{
+  "greeting": "Haii",
+  "name": "Nadia",
+  "greetingText": "Ada sesuatu yang spesial untukmu!",
+  "wishText": "Semoga harimu penuh kebahagiaan ;)",
+  "imagePath": "img/nadia.jpeg",
+  "text1": "Hari ini adalah hari yang istimewa!",
+  "textInChatBox": "Selamat ulang tahun! Semoga semua harapanmu terkabul!",
+  "sendButtonLabel": "Kirim",
+  "text2": "Aku bisa saja hanya mengucapkan selamat ulang tahun.",
+  "text3": "Tapi aku ingin melakukan lebih dari itu.",
+  "text4": "Aku ingin memberikan sesuatu yang",
+  "text4Adjective": "bermakna",
+  "text5Entry": "Karena,",
+  "text5Content": "Kamu Special.",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Selamat Ulang Tahun!",
+  "outroText": "Sekarang, beritahu aku jika ini membuatmu tersenyum.",
+  "replayText": "Atau klik, kalau mau melihatnya lagi.",
+  "outroSmiley": ":)"
+}
